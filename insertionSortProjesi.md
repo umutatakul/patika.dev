@@ -1,6 +1,6 @@
 # Insertion Sort Projesi
 
-Bu dosya [patika.dev](https://www.patika.dev/tr)'e ait olan "Veri Yapıları ve Algoritmalar "[](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje)
+Bu dosya [patika.dev](https://www.patika.dev/tr)'e ait olan "Veri Yapıları ve Algoritmalar" [](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje) dersinin ödevini içermektedir.
 
 **[22,27,16,2,18,6]**
 
