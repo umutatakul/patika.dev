@@ -1,2 +1,2 @@
 # patika.dev
-Patika Dev ödevlerini içermektedir
+Bu klasör [patika.dev](https://www.patika.dev/tr) için oluşturuduğum ödevleri içermektedir
