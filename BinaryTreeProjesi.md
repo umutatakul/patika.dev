@@ -22,4 +22,4 @@ Author: Umut Atakul
 
 ![StackOverFlow](https://icons.iconarchive.com/icons/limav/flat-gradient-social/24/Stackoverflow-icon.png)[Stack Over Flow Profile](https://stackoverflow.com/users/12765684/umut-atakul)
 
-![StackOverFlow](https://github.com/umutatakul/patika.dev/blob/main/src/Binary.jpg)
+![BinaryTreeJpg](https://github.com/umutatakul/patika.dev/blob/main/src/Binary.jpg)
