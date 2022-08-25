@@ -23,7 +23,7 @@ Bu dosya [patika.dev](https://www.patika.dev/tr)'e ait olan [Umu Atakul ](https:
 ***
 2. Big-O gösterimini yazınız.
 
-    $\log(n)$ O($n^2$)
+    > O(*n* $\log(n)$ )
 
 ***
 Author: Umut Atakul
