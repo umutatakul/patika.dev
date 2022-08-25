@@ -1,6 +1,6 @@
 # Insertion Sort Projesi
 
-Bu dosya [patika.dev](https://www.patika.dev/tr)'e ait olan "Veri Yapıları ve Algoritmalar" [](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje) dersinin ödevini içermektedir.
+Bu dosya [patika.dev](https://www.patika.dev/tr)'e ait olan [Umu Atakul ](https://www.linkedin.com/in/umutatakul/)tarafından yapılmış ["Veri Yapıları ve Algoritmalar"](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/) dersinin  [**Inserition Sort**](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje) ödevini içermektedir.
 
 **[22,27,16,2,18,6]**
 
@@ -54,3 +54,9 @@ Avarage Case
 
 
 ---
+
+Author: Umut Atakul
+
+![Linkedin](https://icons.iconarchive.com/icons/graphics-vibe/simple-rounded-social/24/linkedin-icon.png) [https://www.linkedin.com/in/umutatakul/](https://www.linkedin.com/in/umutatakul/)
+
+![StackOverFlow](https://icons.iconarchive.com/icons/limav/flat-gradient-social/24/Stackoverflow-icon.png)[Stack Over Flow Profile](https://stackoverflow.com/users/12765684/umut-atakul)
