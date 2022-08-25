@@ -1,4 +1,4 @@
-#Binary Search
+# Binary Search
 
 Bu dosya [patika.dev](https://www.patika.dev/tr)'e ait olan [Umu Atakul ](https://www.linkedin.com/in/umutatakul/)tarafından yapılmış ["Veri Yapıları ve Algoritmalar"](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/) dersinin  [**Binary Search**](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/binary-search-tree-proje) ödevini içermektedir.
 ***
