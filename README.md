@@ -6,8 +6,12 @@
 
 ## Veri yapıları ve algoritmalar ödevleri
 
-### 1. [Insertion Sort Projesi](https://github.com/umutatakul/patika.dev/blob/main/insertionSortProjesi.md)
+### 1. [Insertion Sort Projesi](https://github.com/umutatakul/patika.dev/blob/main/VeriYapilariveAlgoritmalar/insertionSortProjesi.md)
 
-### 2. [Merge Sort Projesi](https://github.com/umutatakul/patika.dev/blob/main/MergeSortProjesi.md)
+### 2. [Merge Sort Projesi](https://github.com/umutatakul/patika.dev/blob/main/VeriYapilariveAlgoritmalar/%20MergeSortProjesi.md)
 
-### 3. [Binary Search Tree Projesi](https://github.com/umutatakul/patika.dev/blob/main/BinaryTreeProjesi.md)
+### 3. [Binary Search Tree Projesi](https://github.com/umutatakul/patika.dev/blob/main/VeriYapilariveAlgoritmalar/BinaryTreeProjesi.md)
+
+## Object Oriented Programming
+
+### 1. [Üniversite Yönetim Sistemi Diyagramı](https://github.com/umutatakul/patika.dev/blob/main/src/%C3%9Cniversite%20Y%C3%B6netim%20Sistemi%20PNG.png)
